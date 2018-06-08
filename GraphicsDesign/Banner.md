@@ -16,13 +16,71 @@ Caution: only borrow the idea, not exactly copy it due to copyright protection!
 5. The product is a software app: https://www.microsoft.com/store/apps/9ntphrk6qlfg we want to surround the product logo with 5 aspects of it. Following are the things we need to present:
 
 I. Source: GitHub, GitLab, BitBucket, VSTS, Coding
+
 II. Language: C#, Java, C, C++, Python, Go
+
 III. Annotation: Text, Voice, Ink, W3C
+
 IV. Sharing: P2P, IM, Group
+
 V. Search: Full-Text, Semantic
+
 
 So above should be 5 clusters. Connected either by the tree mentioned above, or you can come up with fancy design then we could also remove the tree. The product logo/name should be connected/centered with the 5 clusters.
 
-We probably need to add a catch word someone.
+We probably need to add a catch word somewhere.
 
 I'll help you to find suitable logos for above 5 clusters.
+
+---
+
+Update 1
+
+Those 5 clusters in fact should be connected to a central node first:
+
+I. git
+
+II. an icon for code
+
+III. an icon for annotation, could use a comment icon
+
+IV. an icon for network maybe
+
+V. an search icon 
+
+List of where to find icons:
+
+I.
+
+git: https://git-scm.com/downloads/logos
+
+github logos: https://github.com/logos (this one could be emphasised by being bigger or other ways)
+
+gitlab logos: https://about.gitlab.com/press/
+
+bitbucket logos: https://www.atlassian.com/company/news/press-kit
+
+vsts logo can be found here: https://www.visualstudio.com/team-services/
+
+coding.net logos: https://coding.net/about
+
+II.
+
+C#, Java, C, C++, Python, Go: can be found in the icon file fontello-299f4b85-1.zip
+
+III.
+
+Just use generic icons for these.
+
+or use https://docs.microsoft.com/en-us/windows/uwp/design/style/segoe-ui-symbol-font
+
+or fontawesome
+
+IV.
+
+generic icons
+
+V.
+
+To do.
+
